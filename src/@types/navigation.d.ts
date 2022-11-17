@@ -4,7 +4,7 @@ export declare global {
       new: undefined;
       pools: undefined;
       find: undefined;
-      datails: { id: string };
+      details: { id: string };
     }
   }
 }
